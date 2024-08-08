@@ -1,6 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Favour Ekeleme</h1>
-<h3 align="center">A passionate frontend developer from Port Harcourt Rivers State</h3>
+
+<h1 align="center">Hi Fren, Pluto</h1>
+<h3 align="center">A passionate Web3 developer from Port Harcourt Rivers State</h3>
 <img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/4171367-Coding-Freak">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mark8nigeria&label=Profile%20views&color=0e75b6&style=flat" alt="mark8nigeria" /> </p>
