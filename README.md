@@ -1,70 +1,81 @@
 # PlutoDev 👨🏽‍💻🚀
 
-DevRel | Web3 Educator | Community Builder  
-Helping developers learn, build, and ship — **available on Arbitrum**
+Developer Relations (DevRel) | Web3 Educator | Community Builder  
+Focused on developer education, open-source, and community growth
 
 ---
 
 ## 👋 About Me
-I’m Favour, better known as **PlutoDev**.
+I’m Favour, widely known as **PlutoDev**.
 
-I work in Developer Relations, focused on making complex blockchain concepts feel simple, practical, and approachable.  
-My goal is straightforward: **help developers go from zero to shipping confidently**.
+I work in Developer Relations, helping developers understand new technologies, ship real projects, and grow through community-led learning. I care deeply about clarity, practical education, and building systems that outlive single events.
 
-Most of my work lives at the intersection of:
+Most of my work sits at the intersection of:
 - Developer education
-- Open-source tooling
-- Community-led growth
+- Open-source contributions
+- Community and ecosystem growth
 
 ---
 
-## 🧠 What I Do (DevRel, in practice)
-I don’t just talk DevRel — I execute it.
+## 🧠 What I Do (DevRel, in reality)
+This is what my DevRel work looks like day-to-day:
 
-- Design and run hands-on workshops (online & in-person)
-- Build beginner-friendly starter kits and learning repos
-- Support developers through docs, GitHub issues, and live sessions
-- Turn feedback from builders into better tooling and content
+- Design and run hands-on technical workshops
+- Create beginner-friendly starter kits and guides
+- Support developers through documentation, GitHub issues, and live sessions
+- Translate feedback from builders into better learning resources
 
 ---
 
 ## 🌍 ChainConnectNG
-I lead **ChainConnectNG**, a community-driven initiative focused on onboarding and supporting developers across Nigerian universities and local tech hubs.
+I lead **ChainConnectNG**, a developer-focused initiative built around onboarding and supporting students and early-stage builders across universities and local tech communities.
 
 Through ChainConnectNG, I’ve:
 - Hosted workshops, campus tours, and technical sessions
-- Onboarded **200+ developers** into Web3 with practical learning
-- Partnered with ecosystem teams and ambassadors
-- Built learning resources that continue to live beyond events
+- Helped **200+ developers** transition into Web3 with practical learning
+- Collaborated with multiple ecosystem communities and ambassadors
+- Built open learning resources that remain useful beyond live events
 
-ChainConnectNG is where **education meets execution**.
+ChainConnectNG is where education meets execution.
 
 ---
 
-## 🔧 Ecosystems I Build & Teach On
-- **Arbitrum** (primary focus)
+## 🧩 Ecosystem Involvement
+I actively contribute to and support multiple blockchain ecosystems, with a strong focus on developer experience and education.
+
+- **Arbitrum** – Ambassador & primary technical focus
 - Base
 - Ethereum
 - Solana
 
-All technical content and resources here are **available on Arbitrum** where applicable.
+---
 
+## 📚 Featured Repositories
+> Teaching-first repositories I maintain or contribute to
+
+- 🚀 **arbitrum-devrel-resources**  
+  Curated guides, tools, and onboarding resources for developers
+
+- 📖 **devrel-playbook**  
+  Notes and frameworks from my DevRel and community work
+
+*(These repositories grow alongside my workshops, talks, and community programs.)*
 
 ---
 
-## 🤝 Community, Events & Talks
+## 🎤 Community, Events & Speaking
 - ChainConnectNG workshops & campus programs
-- Twitter Spaces, AMAs, and technical panels
-- University sessions and hackathons
-- DevRel & ecosystem collaborations
+- Twitter Spaces, AMAs, and panel sessions
+- University events, hackathons, and meetups
+- DevRel and ecosystem collaborations
 
 ---
 
 ## 🔗 Connect With Me
-- X (Twitter): @PlutoDev
-- LinkedIn: Favour Ekeleme
-- Community & events: ChainConnectNG
+- X (Twitter): https://x.com/ekelemefavour1
+- LinkedIn:[ https://linkedin.com/in/favour-ekeleme](https://www.linkedin.com/in/favour-ekeleme-aa9674241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+-Email: favourekeleme58@gmail.com
 
 ---
 
-> If you’re building on Arbitrum and care about developer experience, education, or community — let’s collaborate.
+> Open to DevRel collaborations, workshops, and community-driven projects.
